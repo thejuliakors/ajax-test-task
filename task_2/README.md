@@ -19,3 +19,12 @@ TEST_DATA_LONGITUDE = [
   (170.0323, "170^1.938E"),
 ]
 ```
+
+The functions are in *coordinates_converter.py*. In order to test them:
+```
+pytest -v
+```
+
+#### Requirements:
+- Python 3.7.7
+- pytest 6.1.1
