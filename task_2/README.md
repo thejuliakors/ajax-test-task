@@ -53,3 +53,5 @@ test_coordinates.py::test_converted_latitude[-80.9-80^54S] PASSED        [100%]
 #### Requirements:
 - Python 3.7.7
 - pytest 6.1.1
+
+PS: Nice source to check coordinates conversion - https://www.pgc.umn.edu/apps/convert/
