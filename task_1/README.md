@@ -65,3 +65,7 @@ To start client:
 ```python
 python client.py
 ```
+
+#### Requirements:
+- Python 3.7.7
+- asyncio 3.4.3
